@@ -23,3 +23,5 @@ C:\Users\Matt\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\Pro
 C:\Users\Matt\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\obj\x86\Debug\ProgrammingAssignment4.csprojResolveAssemblyReference.cache
 C:\Users\Matt\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\obj\x86\Debug\ProgrammingAssignment4.exe
 C:\Users\Matt\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\obj\x86\Debug\ProgrammingAssignment4.pdb
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\Content\pickup.xnb
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\Content\teddybear.xnb

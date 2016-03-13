@@ -64,10 +64,11 @@ namespace ProgrammingAssignment4
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // STUDENTS: load teddy and pickup sprites
-
+            teddySprite = Content.Load<Texture2D>(@"teddybear");
+            pickupSprite = Content.Load<Texture2D>(@"pickup");
 
             // STUDENTS: create teddy object centered in window
-
+            teddy = new TeddyBear(teddySprite, new Vector2(WindowWidth / 2 - teddySprite.Width / 2, WindowHeight / 2 - teddySprite.Height / 2));
         }
 
         /// <summary>

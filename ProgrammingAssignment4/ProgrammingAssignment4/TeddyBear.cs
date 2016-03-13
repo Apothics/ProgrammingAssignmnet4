@@ -48,9 +48,11 @@ namespace ProgrammingAssignment4
             this.location = location;
 
             // STUDENTS: set draw rectangle so teddy is centered on location
-
+            drawRectangle = new Rectangle((int)location.X, (int)location.Y, sprite.Width, sprite.Height);
 
             // STUDENTS: set halfDrawRectangleWidth and halfDrawRectangleHeight for efficiency
+            halfDrawRectangleWidth = drawRectangle.Width / 2;
+            halfDrawRectangleHeight = drawRectangle.Height / 2;
 
         }
 
@@ -89,6 +91,12 @@ namespace ProgrammingAssignment4
             // STUDENTS: update location based on velocity if teddy is collecting
             // Be sure to update the location field first, then center the
 			// draw rectangle on the location
+            if(collecting)
+            {
+                location += velocity * gameTime.ElapsedGameTime.Milliseconds;
+                drawRectangle.X = (int)location.X - halfDrawRectangleWidth;
+                drawRectangle.Y = (int)location.Y - halfDrawRectangleHeight;
+            }
 
             // check for mouse over teddy
             if (drawRectangle.Contains(mouse.X, mouse.Y))
@@ -127,7 +135,7 @@ namespace ProgrammingAssignment4
         public void Draw(SpriteBatch spriteBatch)
         {
             // STUDENTS: use the sprite batch to draw the teddy
-
+            spriteBatch.Draw(sprite, drawRectangle, Color.White);
         }
 
         /// <summary>
@@ -137,7 +145,8 @@ namespace ProgrammingAssignment4
         public void SetTarget(Vector2 target)
         {
             // STUDENTS: set teddy velocity based on teddy center location and target
-
+            location.X = drawRectangle.Center.X;
+            location.Y = drawRectangle.Center.Y;
         }
 
         #endregion
