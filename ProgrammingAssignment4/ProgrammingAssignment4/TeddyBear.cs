@@ -147,6 +147,7 @@ namespace ProgrammingAssignment4
             // STUDENTS: set teddy velocity based on teddy center location and target
             location.X = drawRectangle.Center.X;
             location.Y = drawRectangle.Center.Y;
+            velocity = Vector2.Normalize(target - location) * BaseSpeed;
         }
 
         #endregion
