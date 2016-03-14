@@ -111,7 +111,7 @@ namespace ProgrammingAssignment4
                     rightClickStarted = false;
 
                     // STUDENTS: add a new pickup to the end of the list of pickups
-                    pickups.Add(new Pickup(pickupSprite,Vector2,))
+                    pickups.Add(new Pickup(pickupSprite, new Vector2(mouse.X, mouse.Y))); 
 
                     // STUDENTS: if this is the first pickup in the list, set teddy target
 
