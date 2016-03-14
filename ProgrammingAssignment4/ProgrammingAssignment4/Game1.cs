@@ -111,10 +111,10 @@ namespace ProgrammingAssignment4
                     rightClickStarted = false;
 
                     // STUDENTS: add a new pickup to the end of the list of pickups
-                    pickups.Add(new Pickup(pickupSprite, new Vector2(mouse.X, mouse.Y))); 
+                    pickups.Add(new Pickup(pickupSprite, new Vector2(mouse.X, mouse.Y)));
 
                     // STUDENTS: if this is the first pickup in the list, set teddy target
-
+                    pickups.IndexOf(new Pickup(pickupSprite, new Vector2(mouse.X, mouse.Y)));
                 }
             }
 
@@ -123,7 +123,7 @@ namespace ProgrammingAssignment4
                 teddy.CollisionRectangle.Intersects(pickups[0].CollisionRectangle))
             {
                 // STUDENTS: remove targeted pickup from list (it's always at location 0)
-
+                pickups.Remove(new Pickup(pickupSprite,);
 
                 // STUDENTS: if there's another pickup to collect, set teddy target
                 // If not, stop the teddy from collecting
