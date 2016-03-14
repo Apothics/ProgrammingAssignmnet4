@@ -25,3 +25,30 @@ C:\Users\Matt\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\Pro
 C:\Users\Matt\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\obj\x86\Debug\ProgrammingAssignment4.pdb
 C:\Users\Matt\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\Content\pickup.xnb
 C:\Users\Matt\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\Content\teddybear.xnb
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\obj\x86\Debug\ProgrammingAssignment4.exe
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\obj\x86\Debug\ProgrammingAssignment4.pdb
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\Content\pickup.xnb
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\Content\teddybear.xnb
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\ProgrammingAssignment4.exe
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\ProgrammingAssignment4.pdb
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\SharpDX.dll
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\SharpDX.xml
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignmnet4\ProgrammingAssignment4\ProgrammingAssignment4\obj\x86\Debug\ProgrammingAssignment4.csprojResolveAssemblyReference.cache
