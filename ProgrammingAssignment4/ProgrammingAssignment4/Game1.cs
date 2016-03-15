@@ -121,8 +121,12 @@ namespace ProgrammingAssignment4
                     else
                     {
                         teddy.Collecting = false;
+<<<<<<< HEAD
                     }
 
+=======
+                    }                                   
+>>>>>>> origin/master
                 }
 
             }
