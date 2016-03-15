@@ -118,7 +118,10 @@ namespace ProgrammingAssignment4
                     {
                         teddy.SetTarget(new Vector2(pickups[0].CollisionRectangle.Center.X, pickups[0].CollisionRectangle.Center.Y));
                     }
-                    else  teddy.Collecting = false;
+                    else
+                    {
+                        teddy.Collecting = false;
+                    }                                   
                 }
             }
 
